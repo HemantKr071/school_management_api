@@ -15,7 +15,7 @@ The **School Management API** is a backend service built using **Node.js, Expres
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-username/school-management-api.git
+git clone https://github.com/HemantKr071/school_management_api.git
 cd school-management-api
 cd backend
 ```
